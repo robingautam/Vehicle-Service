@@ -1,0 +1,13 @@
+body {
+
+   background-image: url("background.jpg");
+   /*background-size: 1500px 800px;*/
+   background-size: cover;
+   background-repeat: no-repeat;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+
+   
+}
